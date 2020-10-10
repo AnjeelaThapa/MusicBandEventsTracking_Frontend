@@ -1,0 +1,30 @@
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+      <button mat-icon-button id="menu" (click)="navService.openNav()">
+        <mat-icon color="warn"> exit_to_app</mat-icon>
+      </button>
+    <p class="lobster display-4 ml-3">bandsinTown</p>
+    <span class="spacer"></span>
+    <button mat-icon-button [matMenuTriggerFor]="menu" aria-label="Example icon-button with a menu">
+      <mat-icon>more_vert</mat-icon>
+    </button>
+    <mat-menu #menu="matMenu">
+      <button *ngIf="visitor" routerLink="/auth" mat-menu-item>
+        <mat-icon>fiber_new</mat-icon>
+        <span>Join Now</span>
+      </button>
+      <button *ngIf="client || admin" routerLink="/profile" mat-menu-item>
+        <mat-icon>face</mat-icon>
+        <span>Profile</span>
+      </button>
+      <button *ngIf="client || admin" (click)="logOut()" mat-menu-item>
+        <mat-icon>settings_power</mat-icon>
+        <span>Log out</span>
+      </button>
+      <button *ngIf="client || admin" (click)="logOutAll()" mat-menu-item>
+        <mat-icon>all_out</mat-icon>
+        <span>Log out from all devices</span>
+      </button>
+    </mat-menu>
+  </mat-toolbar-row>
+</mat-toolbar>

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66c8862d-f85a-43fc-919f-a43550438cae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/vehicle-functionality" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectId" id="1X0yycL4bcPEbJxXVHCdIMJWEZt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Otaku-events-Android" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\Amulya\Desktop\Dikshya Assignmentttttttttttttttttttt\Otaku-events\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Amulya\Desktop\Dikshya Assignmentttttttttttttttttttt\Swift-vehicle-rental\src\assets\images" />
+      <recent name="Z:\5th Semester dumps\Final Frontend Project (SWIFT)\Swift-vehicle-rental\src\app\theme" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Angular Application">
+    <configuration name="E2E Tests (Swift-vehicle-rental)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66c8862d-f85a-43fc-919f-a43550438cae" name="Default Changelist" comment="" />
+      <created>1580197561161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580197561161</updated>
+      <workItem from="1580197563915" duration="7390000" />
+      <workItem from="1580294667458" duration="63000" />
+      <workItem from="1580360898549" duration="80000" />
+      <workItem from="1580362119958" duration="6044000" />
+      <workItem from="1580453380106" duration="935000" />
+      <workItem from="1580545675273" duration="1786000" />
+      <workItem from="1580575135843" duration="273000" />
+      <workItem from="1580721151043" duration="1995000" />
+      <workItem from="1580788114945" duration="948000" />
+      <workItem from="1580792600549" duration="1758000" />
+      <workItem from="1580823802269" duration="600000" />
+      <workItem from="1580877040322" duration="31700000" />
+      <workItem from="1580962300967" duration="28000" />
+      <workItem from="1580986277640" duration="15000" />
+      <workItem from="1581069438298" duration="608000" />
+      <workItem from="1581092090248" duration="996000" />
+      <workItem from="1581252037621" duration="1207000" />
+      <workItem from="1581321383549" duration="268000" />
+      <workItem from="1581329109240" duration="2759000" />
+      <workItem from="1581408967577" duration="28639000" />
+      <workItem from="1581494478825" duration="11561000" />
+      <workItem from="1581575152790" duration="7786000" />
+      <workItem from="1581596938170" duration="34000" />
+      <workItem from="1581623793335" duration="2221000" />
+      <workItem from="1581660398478" duration="272000" />
+      <workItem from="1581698297334" duration="609000" />
+      <workItem from="1581746768603" duration="19129000" />
+      <workItem from="1581801867402" duration="17279000" />
+      <workItem from="1581829869925" duration="1038000" />
+      <workItem from="1581847948117" duration="54000" />
+      <workItem from="1581848123488" duration="370000" />
+      <workItem from="1581849523809" duration="66000" />
+      <workItem from="1581996097151" duration="652000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added module components respectively.">
+      <created>1580199497975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580199497975</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added module components respectively with necessary component integration.">
+      <created>1580879588963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580879588963</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added necessary navigation components">
+      <created>1580880003423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580880003423</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Functional navigation components">
+      <created>1580882354907</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580882354907</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fully functional menu sidebars and top bars">
+      <created>1580907175053</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580907175053</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Designed the dashboard for the application, a home page to be specific">
+      <created>1580907211392</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580907211392</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added images as assets to he application">
+      <created>1580907231875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580907231875</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finalized overall dashboard UI materials">
+      <created>1580919837865</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580919837865</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added necessary client components to the client module and added client route file">
+      <created>1580920361080</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580920361080</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Finalized home components with dashboard ui">
+      <created>1580921102786</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580921102786</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Arranged navigation components with respective sidebar menu items">
+      <created>1580923228475</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580923228475</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added base service">
+      <created>1581333370626</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1581333370626</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added authentication.service.ts with pathway for api via Api Utilities">
+      <created>1581435316357</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1581435316357</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Finalized functionalities of register component">
+      <created>1581441651118</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1581441651118</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added validations for register component">
+      <created>1581441904143</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1581441904143</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Finalized functionality for login component">
+      <created>1581444301497</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1581444301497</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added validations for login form">
+      <created>1581444325714</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1581444325714</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added service to check active user">
+      <created>1581444351432</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1581444351432</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added logout from all devices api service into auth api services">
+      <created>1581444383099</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1581444383099</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added functionality for logging out form all devices feature">
+      <created>1581444413049</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1581444413049</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Minor refactoring for fetching active user">
+      <created>1581445015307</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1581445015307</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Finalized authentication feature for the application">
+      <created>1581445918512</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1581445918512</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Refactored unnecessary components for vehicle fuctionality, since a single vehicle component is capable of covering up for all vehicle types and actions.">
+      <created>1581446592148</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1581446592148</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Minor refactoring for routes">
+      <created>1581447190698</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1581447190698</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Testing card view for vehicles list display">
+      <created>1581450800986</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1581450800986</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added api services for users and vehicle api components">
+      <created>1581500827262</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1581500827262</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added google map services for location coordinates">
+      <created>1581624281011</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1581624281011</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Completed rent functionality">
+      <created>1581767923186</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1581767923186</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added user update function">
+      <created>1581767939279</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1581767939279</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Added forgot password functionality">
+      <created>1581772069723</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1581772069723</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="Z:/SAFI-APP/FYP-carRental/node_modules/karma/config.tpl.js" />
+        <option value="$PROJECT_DIR$/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Designed the dashboard for the application, a home page to be specific" />
+    <MESSAGE value="Added images as assets to he application" />
+    <MESSAGE value="Finalized overall dashboard UI materials" />
+    <MESSAGE value="Added necessary client components to the client module and added client route file" />
+    <MESSAGE value="Finalized home components with dashboard ui" />
+    <MESSAGE value="Arranged navigation components with respective sidebar menu items" />
+    <MESSAGE value="Added base service" />
+    <MESSAGE value="Added authentication.service.ts with pathway for api via Api Utilities" />
+    <MESSAGE value="Finalized functionalities of register component" />
+    <MESSAGE value="Added validations for register component" />
+    <MESSAGE value="Finalized functionality for login component" />
+    <MESSAGE value="Added validations for login form" />
+    <MESSAGE value="added service to check active user" />
+    <MESSAGE value="added logout from all devices api service into auth api services" />
+    <MESSAGE value="Added functionality for logging out form all devices feature" />
+    <MESSAGE value="Minor refactoring for fetching active user" />
+    <MESSAGE value="Finalized authentication feature for the application" />
+    <MESSAGE value="Refactored unnecessary components for vehicle fuctionality, since a single vehicle component is capable of covering up for all vehicle types and actions." />
+    <MESSAGE value="Minor refactoring for routes" />
+    <MESSAGE value="Testing card view for vehicles list display" />
+    <MESSAGE value="Added api services for users and vehicle api components" />
+    <MESSAGE value="Added google map services for location coordinates" />
+    <MESSAGE value="Completed rent functionality" />
+    <MESSAGE value="Added user update function" />
+    <MESSAGE value="Added forgot password functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added forgot password functionality" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581526186614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="483" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1581526186614" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1580877157068">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580877157068" />
+    <state x="61" y="6" key="CommitChangelistDialog2" timestamp="1581772068895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="61" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581772068895" />
+    <state x="147" y="64" key="DiffContextDialog" timestamp="1581772050217">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="64" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1581772050217" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1580197838345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580197838345" />
+    <state width="1493" height="131" key="GridCell.Tab.0.bottom" timestamp="1581831413634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581831413634" />
+    <state width="1493" height="131" key="GridCell.Tab.0.center" timestamp="1581831413634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581831413634" />
+    <state width="1493" height="131" key="GridCell.Tab.0.left" timestamp="1581831413634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581831413634" />
+    <state width="1493" height="131" key="GridCell.Tab.0.right" timestamp="1581831413634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="131" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581831413634" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1581772074380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581772074380" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1581849562145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1581660398634" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581849562145" />
+    <state x="463" y="149" width="611" height="526" key="find.popup" timestamp="1581848467285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="149" width="611" height="526" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1581848467285" />
+    <state x="458" y="128" key="git4idea.branch.GitSmartOperationDialog" timestamp="1580907992088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="458" y="128" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1580907992088" />
+    <state x="428" y="206" key="git4idea.merge.GitPullDialog" timestamp="1581774940721">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="428" y="206" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1581774940721" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1580367274153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580367274153" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581829546354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581829546354" />
+  </component>
+</project>

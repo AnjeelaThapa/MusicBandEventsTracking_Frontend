@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Otaku-events</string>
+    <string name="title_activity_botton_nav">BottonNavActivity</string>
+    <string name="title_available_vehivles">Marked</string>
+    <string name="title_reserved_vehicles">Ongoing</string>
+    <string name="title_profile">Profile</string>
+</resources>

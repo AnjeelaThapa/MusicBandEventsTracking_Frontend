@@ -1,0 +1,42 @@
+<div class="carbon-background w-100 py-5">
+  <div class="row flex-nowrap justify-content-center w-100 bg-transparent">
+    <div class="col-md-7 mt-5 text-center ">
+      <h1 class="blog-header-logo text-center text-light lobster" style="font-size: 100px">Events</h1>
+      <span class="righteous text-light" style="font-size: 30px">{{action}}</span>
+    </div>
+  </div>
+  <div class="container bg-transparent">
+    <div class="row my-5 justify-content-center">
+      <div class="col-md-11 pt-3">
+        <hr class="bg-light">
+      </div>
+      <div class="col-md-1" *ngIf="admin" (click)="openEventsActionModel(null)">
+        <button mat-mini-fab aria-label="Example icon-button with a heart icon">
+          <mat-icon>library_add</mat-icon>
+        </button>
+      </div>
+    </div>
+    <div class="row mt-2 justify-content-center">
+      <div class="col-md-4 my-4" *ngFor="let events of eventList">
+        <mat-card class="example-card">
+          <mat-card-header>
+            <mat-card-title>{{events?.name}}</mat-card-title>
+            <mat-card-subtitle>{{events?.schedule}}</mat-card-subtitle>
+          </mat-card-header>
+          <img (click)="openLocation(events?.locationCoordinates)" mat-card-image [src]="sanitizer.bypassSecurityTrustUrl('data:image/jpg;base64,'+events.imgString)" alt="car">
+          <mat-card-content>
+            <p>
+              {{events?.description}}
+            </p>
+          </mat-card-content>
+          <mat-card-actions>
+            <button mat-button color="primary" *ngIf="client && action !== 'Booked'" (click)="bookmarkAction(events._id)">Move to bookmark</button>
+            <button mat-button color="warn" *ngIf="client && action === 'Booked'" (click)="removeFromBooked(events._id)">Remove from booked</button>
+            <button mat-button color="accent" *ngIf="admin" (click)="openEventsActionModel(events)">Edit</button>
+            <button mat-button color="warn" *ngIf="admin" (click)="deleteEvent(events)">Delete</button>
+          </mat-card-actions>
+        </mat-card>
+      </div>
+    </div>
+  </div>
+</div>

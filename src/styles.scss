@@ -1,0 +1,166 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap/dist/css/bootstrap.css";
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade|Lobster|Righteous&display=swap|Bungee+Inline');
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.carbon-background {
+  //background-color: #222222 !important;
+  //background: repeating-linear-gradient(45deg, #414141 0%, #2b2b2b 10%, #222222 0%, #222222 50%) 0 / 15px 15px;
+  background: #351c33;
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+/**
+-- Fonts --
+**/
+
+.jim-nightshade {
+  font-family: 'Jim Nightshade', cursive;
+}
+
+.lobster {
+  font-family: 'Lobster', cursive;
+}
+
+.righteous {
+  font-family: 'Righteous', cursive;
+}
+
+.press-start-2P {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.monoton {
+  font-family: 'Monoton', cursive;
+}
+
+/**
+-- Fonts End--
+**/
+
+.grad-background {
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(#673AB7, #ff5e7b); /* Standard syntax (must be last) */
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+:root {
+  /* Set neon color */
+  --neon-text-color: #f40;
+  --neon-border-color: #08f;
+}
+
+.glow {
+  font-size: 7.5vw;
+  font-weight: 200;
+  color: #fff;
+  padding: 4rem;
+  border: 0.4rem solid #fff;
+  border-radius: 2rem;
+  text-transform: uppercase;
+  animation: flicker 1.5s infinite alternate;
+}
+
+.glow::-moz-selection {
+  background-color: var(--neon-border-color);
+  color: var(--neon-text-color);
+}
+
+.glow::selection {
+  background-color: var(--neon-border-color);
+  color: var(--neon-text-color);
+}
+
+.glow:focus {
+  outline: none;
+}
+
+/* Animate neon flicker */
+@keyframes flicker {
+
+  0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+
+    text-shadow: -0.2rem -0.2rem 1rem #fff,
+    0.2rem 0.2rem 1rem #fff,
+    0 0 2rem var(--neon-text-color),
+    0 0 4rem var(--neon-text-color),
+    0 0 6rem var(--neon-text-color),
+    0 0 8rem var(--neon-text-color),
+    0 0 10rem var(--neon-text-color);
+
+    box-shadow: 0 0 .5rem #fff,
+    inset 0 0 .5rem #fff,
+    0 0 2rem var(--neon-border-color),
+    inset 0 0 2rem var(--neon-border-color),
+    0 0 4rem var(--neon-border-color),
+    inset 0 0 4rem var(--neon-border-color);
+  }
+
+  20%, 24%, 55% {
+    text-shadow: none;
+    box-shadow: none;
+  }
+}
+
+/**
+  Shaky css
+ **/
+
+.shaky:hover {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+.danger-snack-bar {
+  background: indianred;
+}
+
+.success-snack-bar {
+  background: darkseagreen;
+}
+
+.custom-dialog-container .mat-dialog-container {
+  padding: 0px !important;
+  height: 90vh;
+  width: 90vw;
+}
+
+.action-dialog-container .mat-dialog-container {
+  padding: 0px !important;
+  height: 90vh;
+  width: 50vw;
+}

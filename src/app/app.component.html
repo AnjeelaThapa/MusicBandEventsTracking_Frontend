@@ -1,0 +1,14 @@
+<mat-sidenav-container>
+  <mat-sidenav #appDrawer mode="over" opened="false">
+    <div class="text-center w-100">
+      <img src="assets/images/bandsLogo.png" alt="asd">
+    </div>
+    <mat-nav-list>
+      <app-menu-list-item *ngFor="let item of navItems" [item]="item"></app-menu-list-item>
+    </mat-nav-list>
+  </mat-sidenav>
+  <app-top-nav class="fixed-topnav"></app-top-nav>
+
+  <router-outlet></router-outlet>
+
+</mat-sidenav-container>

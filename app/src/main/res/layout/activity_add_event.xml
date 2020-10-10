@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.AddEventsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnLogOut"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:padding="25dp"
+            android:background="@drawable/gradientnew"
+            android:text="Log Out"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="250dp">
+            <ImageView
+                android:id="@+id/imgEvent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:clickable="true"
+                android:background="@drawable/gradientnew"
+                android:tooltipText="Vehicle Image"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Events"
+                android:textSize="40sp"
+                android:textStyle="bold"
+                app:fontFamily="@font/almendra_bold_italic" />
+            <EditText
+                android:layout_marginBottom="10dp"
+                android:id="@+id/etName"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Event Title"/>
+            <EditText
+                android:layout_marginBottom="10dp"
+                android:id="@+id/etDesc"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="text|textMultiLine"
+                android:hint="Event description"/>
+            <EditText
+                android:layout_marginBottom="10dp"
+                android:id="@+id/etSchedule"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Schedule"/>
+            <EditText
+                android:layout_marginBottom="10dp"
+                android:id="@+id/etLocationCoordinates"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:hint="Location Coordinates"/>
+        </LinearLayout>
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="700px"
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:background="@drawable/gradientnew"
+            android:text="Add"
+            android:fontFamily="@font/almendra_bold_italic"/>
+
+    </LinearLayout>
+
+</ScrollView>

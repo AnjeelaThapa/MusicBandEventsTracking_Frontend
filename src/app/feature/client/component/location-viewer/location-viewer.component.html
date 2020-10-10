@@ -1,0 +1,14 @@
+<agm-map (mapClick)="placeMaker($event.coords.lat,$event.coords.lng)"
+         [clickableIcons]='false'
+         [fullscreenControl]='true'
+         [latitude]="latitude"
+         [longitude]="longitude"
+         [mapTypeControl]='true'
+         [zoom]="zoom"
+         style="height: 100%; width: 100%;">
+  <agm-marker [latitude]="markerLatitude" [longitude]="markerLongitude">
+    <agm-info-window [isOpen]="infoWindowOpen">
+      {{addressLabel}}
+    </agm-info-window>
+  </agm-marker>
+</agm-map>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_reserved_vehicles"
+        android:icon="@drawable/ic_collections_bookmark_black_24dp"
+        android:title="@string/title_reserved_vehicles" />
+
+    <item
+        android:id="@+id/navigation_available_vehicles"
+        android:icon="@drawable/ic_directions_car_black_24dp"
+        android:title="@string/title_available_vehivles" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_face_black_24dp"
+        android:title="@string/title_profile" />
+
+</menu>
